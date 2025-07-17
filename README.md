@@ -19,4 +19,5 @@ https://wan.video/
 
 ### 🖼 Output
 
+Wan2.1_T2I_jupyter
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/047b3eff-e707-49c0-b9ac-53735595d9d8" />
